@@ -2,24 +2,19 @@
 
 Author:- Demon-World(Warrior)
 Date:-   2020/01/20
-Tool:- Zip file of all Nepali-Phone no
+Tool:-  Code to grab all Nepali-Phone no
 
-This file contains a word list of all Nepali Phone-No even with some Junk Number...
+This file contains a code of crunch tool to get all Nepali Phone-No even with some Junk Number...
 
 Compatiable with systems:-
   
-  *All Operating System which can Unzip a zip file...
+  *All Operating System which can run crunch...
   
 Using (Bash..Terminal):-
- 
- * sudo git clone https://github.com/Demon-World-Warrior/All-Nepali-Phone-Number.git
- * leafpad All-Nepali-Phone-Number or open it by having a Double click on this clone file
- 
-Using windows:-
 
-* Download its Zip file form https://github.com/Demon-World-Warrior/All-Nepali-Phone-Number
+* sudo apt-get install crunch
+* crunch 10 10 1234567890 -t 98@@@@@@@@ -o /root/Desktop/all-phone-no.txt
 
-* Right click and left click at once and you will see many options there the click on extract option and it will be Done!!
 
 ##Follow us on git hub:-
   
