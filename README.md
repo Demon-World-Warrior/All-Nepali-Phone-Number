@@ -4,7 +4,7 @@ Author:- Demon-World(Warrior)
 Date:-   2020/01/20
 Tool:- Zip file of all Nepali-Phone no
 
-This Zip file contains a word list of all Nepali Phone-No even with some Junk Number...
+This file contains a word list of all Nepali Phone-No even with some Junk Number...
 
 Compatiable with systems:-
   
@@ -13,7 +13,7 @@ Compatiable with systems:-
 Using (Bash..Terminal):-
  
  * sudo git clone https://github.com/Demon-World-Warrior/All-Nepali-Phone-Number.git
- * unzip All-Nepali-Phone-Number
+ * leafpad All-Nepali-Phone-Number or open it by having a Double click on this clone file
  
 Using windows:-
 
